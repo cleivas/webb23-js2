@@ -1,0 +1,285 @@
+[
+    {
+        "id": 895667,
+        "name": "The Good, the Bad and the Ugly",
+        "year": 1966,
+        "runtime": 161,
+        "categories": [
+            "western",
+            "action",
+            "adventure"
+        ],
+        "release-date": "1966-12-29",
+        "director": "Sergio Leone",
+        "writer": [
+            "Luciano Vincenzoni",
+            "Sergio Leone",
+            "Agenore Incrocci",
+            "Furio Scarpelli"
+        ],
+        "actors": [
+            "Eli Wallach",
+            "Lee Van Cleef",
+            "Aldo Giuffrè",
+            "Luigi Pistilli"
+        ],
+        "storyline": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery."
+    },
+    {
+        "id": 645642,
+        "name": "Akira",
+        "year": 1988,
+        "runtime": 124,
+        "categories": [
+            "animation",
+            "scifi",
+            "drama"
+        ],
+        "release-date": "1988-07-16",
+        "director": "Katsuhiro Ôtomo",
+        "writer": [
+            "Katsuhiro Ôtomo",
+            "Izô Hashimoto",
+            "Katsuhiro Ôtomo"
+        ],
+        "actors": [
+            "Mitsuo Iwata",
+            "Nozomu Sasaki",
+            "Mami Koyama",
+            "Tesshô Genda",
+            "Hiroshi Ôtake"
+        ],
+        "storyline": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath who can only be stopped by two teenagers and a group of psychics."
+    },
+    {
+        "id": 168268,
+        "name": "Home Alone",
+        "year": 1990,
+        "runtime": 102,
+        "categories": [
+            "comedy",
+            "family"
+        ],
+        "description": "An eight-year-old troublemaker must protect his house from a pair of burglars when he is accidentally left home alone by his family during Christmas vacation.",
+        "release-date": "1990-11-16",
+        "director": "Chris Columbus",
+        "writer": [
+            "John Hughes"
+        ],
+        "actors": [
+            "Macaulay Culkin",
+            "Joe Pesci",
+            "Daniel Stern",
+            "John Heard",
+            "Catherine O'Hara"
+        ],
+        "storyline": "It is Christmas time and the McCallister family is preparing for a vacation in Paris, France. But the youngest in the family named Kevin got into a scuffle with his older brother Buzz and was sent to his room which is on the third floor of his house. Then, the next morning, while the rest of the family was in a rush to make it to the airport on time, they completely forgot about Kevin who now has the house all to himself. Being home alone was fun for Kevin, having a pizza all to himself, jumping on his parents' bed, and making a mess. Then, Kevin discovers about two burglars, Harry and Marv, about to rob his house on Christmas Eve. Kevin acts quickly by wiring his own house with makeshift booby traps to stop the burglars and to bring them to justice."
+    },
+    {
+        "id": 878302,
+        "name": "Forrest Gump",
+        "year": 1994,
+        "runtime": 142,
+        "categories": [
+            "drama",
+            "romance"
+        ],
+        "release-date": "1994-07-06",
+        "director": "Robert Zemeckis",
+        "writer": [
+            "Winston Groom",
+            "Eric Roth"
+        ],
+        "actors": [
+            "Tom Hanks",
+            "Robin Wright",
+            "Gary Sinise"
+        ],
+        "storyline": "The presidencies of Kennedy and Johnson, Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75."
+    },
+    {
+        "id": 329777,
+        "name": "The Fifth Element",
+        "year": 1997,
+        "runtime": 127,
+        "categories": [
+            "action",
+            "adventure",
+            "sci-fi"
+        ],
+        "release-date": "1997-05-09",
+        "director": "Luc Besson",
+        "writer": [
+            "Luc Besson",
+            "Robert Mark Kamen"
+        ],
+        "actors": [
+            "Bruce Willis",
+            "Milla Jovovich",
+            "Gary Oldman",
+            "Chris Tucker",
+            "Ian Holm",
+            "Luke Perry",
+            "Brion James",
+            "Tommy Lister",
+            "Lee Evans",
+            "Charlie Creed-Miles",
+            "John Neville",
+            "John Bluthal",
+            "Mathieu Kassovitz",
+            "Christpher Fairbank"
+        ],
+        "storyline": "In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay."
+    },
+    {
+        "id": 291847,
+        "name": "Crouching Tiger, Hidden Dragon",
+        "year": 2000,
+        "runtime": 120,
+        "categories": [
+            "wuxia",
+            "action"
+        ],
+        "release-date": "2000-05-18",
+        "director": "Ang Lee",
+        "writer": [
+            "Hui-Ling Wang",
+            "James Schamus",
+            "Kuo Jung Tsai"
+        ],
+        "actors": [
+            "Chow Yun-Fat",
+            "Michelle Yeoh",
+            "Zhang Ziyi",
+            "Chang Chen",
+            "Cheng Pei-pei"
+        ],
+        "storyline": "The film tells the story of two women, both exquisite fighters, and whose lives are in the days of the Qing Dynasty. Their fates lead them on a violent and startling journey that will force them to make choices that could change their lives."
+    },
+    {
+        "id": 172894,
+        "name": "The Dark Knight Rises",
+        "year": 2012,
+        "runtime": 164,
+        "categories": [
+            "adventure",
+            "thriller"
+        ],
+        "release-date": "2012-07-20",
+        "director": "Christopher Nolan",
+        "writer": [
+            "Jonathan Nolan",
+            "David S. Goyer",
+            "Christopher Nolan",
+            "Bob Kane"
+        ],
+        "actors": [
+            "Christian Bale",
+            "Tom Hardy",
+            "Anne Hathway"
+        ],
+        "storyline": "Eight years after the Joker's reign of anarchy, the Dark Knight, with the help of the enigmatic Catwoman, is forced from his imposed exile to save Gotham City, now on the edge of total annihilation, from the brutal guerrilla terrorist Bane."
+    },
+    {
+        "id": 180009,
+        "name": "Fight Club",
+        "year": 1999,
+        "runtime": 139,
+        "categories": [
+            "drama"
+        ],
+        "release-date": "1999-10-15",
+        "director": "David Fincher",
+        "writer": [
+            "Chuck Palahniuk",
+            "Jim Uhls"
+        ],
+        "actors": [
+            "Edward Norton",
+            "Brad Pitt",
+            "Meat Loaf",
+            "Zach Grenier",
+            "Helena Bonham Carter"
+        ],
+        "storyline": "A depressed man (Edward Norton) suffering from insomnia meets a strange soap salesman named Tyler Durden (Brad Pitt) and soon finds himself living in his squalid house after his perfect apartment is destroyed. The two bored men form an underground club with strict rules and fight other men who are fed up with their mundane lives. Their perfect partnership frays when Marla (Helena Bonham Carter), a fellow support group crasher, attracts Tyler's attention."
+    },
+    {
+        "id": 889289,
+        "name": "The Matrix",
+        "year": 1999,
+        "runtime": 136,
+        "categories": [
+            "action",
+            "fantasy"
+        ],
+        "storyline": "Neo (Keanu Reeves) believes that Morpheus (Laurence Fishburne), an elusive figure considered to be the most dangerous man alive, can answer his question -- What is the Matrix? Neo is contacted by Trinity (Carrie-Anne Moss), a beautiful stranger who leads him into an underworld where he  meets Morpheus. They fight a brutal battle for their lives against a cadre of viciously intelligent secret agents. It is a truth that could cost Neo something more precious than his life.",
+        "release-date": "1999-03-31",
+        "director": [
+            "Lana Wachowski",
+            "Lilly Wachowski"
+        ],
+        "writer": [
+            "Lana Wachowski",
+            "Lilly Wachowski"
+        ],
+        "actors": [
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Carrie-Anne Moss",
+            "Hugo Weaving",
+            "Gloria Foster",
+            "Joe Pantoliano",
+            "Marcus Chong",
+            "Julian Arahanga",
+            "Matt Doran",
+            "Belinda McClory",
+            "Anthony Ray Parker",
+            "Paul Goddard",
+            "Robert Taylor",
+            "David Aston",
+            "Marc Aden Gray",
+            "Ada Nicodemou",
+            "Deni Gordon",
+            "Rowan Witt",
+            "Eleanor Witt",
+            "Tamara Brown",
+            "Janaya Pender",
+            "Adryn White",
+            "Natalie Tjen",
+            "Bill Young",
+            "David O'Connor",
+            "Jeremy Ball",
+            "Fiona Johnson",
+            "Harry Lawrence",
+            "Steve Dodd",
+            "Luke Quinton",
+            "Lawrence Woodward",
+            "Michael Butcher",
+            "Bernard Ledger",
+            "Robert Simper",
+            "Chris Pattinson",
+            "Nigel Harbach",
+            "Mike Duncan",
+            "Rana Morrison"
+        ]
+    },
+    {
+        "id": 182940,
+        "name": "Barbie",
+        "year": 2023,
+        "runtime": 114,
+        "categories": [
+            "adventure",
+            "comedy",
+            "fantasy"
+        ],
+        "release-date": "2023-07-21",
+        "director": "Greta Gerwig",
+        "actors": [
+            "Margot Robbie",
+            "Ryan Gosling",
+            "Issa Rae"
+        ],
+        "storyline": "Barbie suffers a crisis that leads her to question her world and her existence."
+    }
+]
